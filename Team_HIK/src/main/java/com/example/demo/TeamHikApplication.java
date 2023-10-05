@@ -10,4 +10,6 @@ public class TeamHikApplication {
 		SpringApplication.run(TeamHikApplication.class, args);
 	}
 
+	
+	
 }
