@@ -10,4 +10,3 @@ public String show() {
 return "こんばんわああああああ";
 }
 }
-
